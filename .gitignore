@@ -1,0 +1,5 @@
+*.pyc
+
+server.py
+.jshintrc
+.DS_Store
